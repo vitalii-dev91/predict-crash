@@ -1,0 +1,16 @@
+{
+  "name": "bc",
+  "version": "1.0.0",
+  "main": "prediction.js",
+  "scripts": {
+    "start": "node prediction-f.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "readline-sync": "^1.4.10"
+  }
+}
